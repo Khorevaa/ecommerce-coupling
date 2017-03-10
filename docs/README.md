@@ -21,4 +21,4 @@
 
 примерно так
 
-.[./arch.png]
+![Awesome](arch.png)
