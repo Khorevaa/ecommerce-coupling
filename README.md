@@ -53,6 +53,12 @@
 * откуда взялся `dataiku` ? - заходим сюда http://gallery.dataiku.com/ и смотрим ;-)
 * зачем это репозиторий ? - [смотрим расширенное описание](./docs/)
 
+концептуально связан с
+
+* https://github.com/silverbulleters-research/disaster-dwh
+* https://github.com/silverbulleters-research/seven-eleven
+* https://github.com/silverbulleters-research/enterprise-singleapp
+
 
 ## LICENCE
 
